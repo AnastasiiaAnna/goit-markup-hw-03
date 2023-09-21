@@ -38,6 +38,7 @@ img {
 .header {
   padding-top: 24px;
   padding-bottom: 24px;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .container {
@@ -45,6 +46,12 @@ img {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
+  display: flex;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
 }
 
 .header-logo {
@@ -65,6 +72,16 @@ img {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  margin-right: 76px;
+}
+
+.header-menu {
+  display: flex;
+  gap: 40px;
+}
+
+.header-menu-item {
+  padding: 24px 0;
 }
 
 .header-link {
@@ -97,6 +114,11 @@ img {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
+}
+
+.address-menu {
+  display: flex;
+  gap: 40px;
 }
 
 .main-space {
