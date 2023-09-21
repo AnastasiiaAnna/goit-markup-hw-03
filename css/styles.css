@@ -78,7 +78,6 @@ img {
 .header-menu {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .header-link {
@@ -88,6 +87,7 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 
 .header-link:hover,
@@ -117,10 +117,6 @@ img {
   display: flex;
   gap: 40px;
   margin-left: 332px;
-}
-
-.address-menu-item {
-  padding: 24px 0;
 }
 
 .main-space {
