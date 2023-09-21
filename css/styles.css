@@ -172,6 +172,10 @@ img {
   overflow: hidden;
 }
 
+.strategy-space-name {
+  margin-bottom: 8px;
+}
+
 .container-menu {
   display: flex;
   gap: 24px;
