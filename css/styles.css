@@ -155,6 +155,11 @@ img {
   background-color: #404bbf;
 }
 
+.container-menu {
+  display: flex;
+  gap: 24px;
+}
+
 .strategy-space-title {
   color: #2e2f42;
   font-family: Roboto;
@@ -162,6 +167,7 @@ img {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  padding: 120px 0;
 }
 
 .strategy-space-text {
