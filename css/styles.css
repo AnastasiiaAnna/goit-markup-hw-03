@@ -18,6 +18,13 @@ ul {
   padding-bottom: 24px;
 }
 
+.container {
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
 .header-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
