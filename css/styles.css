@@ -80,6 +80,10 @@ img {
   gap: 40px;
 }
 
+.header-menu-item {
+  padding: 24px 0;
+}
+
 .header-link {
   color: #2e2f42;
   font-family: Roboto;
@@ -110,13 +114,16 @@ img {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
-  padding: 24px 0;
 }
 
 .address-menu {
   display: flex;
   gap: 40px;
   margin-left: 332px;
+}
+
+.address-menu-item {
+  padding: 24px 0;
 }
 
 .main-space {
