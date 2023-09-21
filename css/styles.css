@@ -87,7 +87,6 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
 }
 
 .header-link:hover,
@@ -121,6 +120,7 @@ img {
 
 .main-space {
   background: #2e2f42;
+  padding: 188px 0;
 }
 
 .main-space-name {
