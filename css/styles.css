@@ -62,6 +62,7 @@ img {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  margin-right: 76px;
 }
 
 .logo-item {
@@ -72,16 +73,11 @@ img {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
-  margin-right: 76px;
 }
 
 .header-menu {
   display: flex;
   gap: 40px;
-}
-
-.header-menu-item {
-  padding: 24px 0;
 }
 
 .header-link {
@@ -119,6 +115,7 @@ img {
 .address-menu {
   display: flex;
   gap: 40px;
+  margin-left: 332px;
 }
 
 .main-space {
