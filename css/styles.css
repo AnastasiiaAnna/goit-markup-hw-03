@@ -255,6 +255,11 @@ img {
   text-align: center;
 }
 
+.portfolio-space {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .heading-portfolio {
   color: #2e2f42;
   text-align: center;
