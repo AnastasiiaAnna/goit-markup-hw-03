@@ -208,6 +208,7 @@ img {
 .team-list {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
 
 .heading-team {
@@ -227,6 +228,10 @@ img {
   gap: 24px;
 }
 
+.guer {
+  padding: 32px 0;
+}
+
 .team-caption {
   color: #2e2f42;
   text-align: center;
@@ -235,6 +240,8 @@ img {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-align: center;
+  margin-bottom: 8px;
 }
 
 .team-subtitle {
@@ -245,6 +252,7 @@ img {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .heading-portfolio {
