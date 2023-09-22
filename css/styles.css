@@ -202,10 +202,12 @@ img {
 
 .team-space {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 
 .team-list {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
 }
 
 .heading-team {
@@ -217,6 +219,12 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  margin-bottom: 72px;
+}
+
+.team-space-menu {
+  display: flex;
+  gap: 24px;
 }
 
 .team-caption {
